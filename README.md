@@ -4,16 +4,22 @@ This repository is to download the AircraftCarrier dataset
 
 Author: Kai Kang, Gangming Pang, Xun Zhao, Jiabao Wang, Yang Li.
 
-Last Update: 26/01/2020
+Last Update: 18/08/2021
 
 CITATION:
 
 If you use AircraftCarrier dataset in your research, please cite:
 
 	@ARTICLE {AircraftCarrier_Dataset,
-	author       = "Kai Kang, Gangming Pang, Xun Zhao, Jiabao Wang, Yang Li",
-	title        = "A New Benchmark for Instance-level Image Classification",
-	year         = "2020",
+	author    = "Kai Kang, Gangming Pang, Xun Zhao, Jiabao Wang, Yang Li",
+	title     = "A New Benchmark for Instance-level Image Classification",
+	title     = {A New Benchmark for Instance-Level Image Classification},
+	journal   = {{IEEE} Access},
+	volume    = {8},
+	pages     = {70306--70315},
+	year      = {2020},
+	url       = {https://doi.org/10.1109/ACCESS.2020.2986771},
+	doi       = {10.1109/ACCESS.2020.2986771},
 	}
 
 ## 1.Dataset Download
